@@ -1,0 +1,27 @@
+body {
+        background-color: #fcf8e8;
+}
+hr{
+      border: none;
+      border-color: #d4e2d4;
+      border-style: dashed none none none;
+      border-height: 10px;
+      width: 10%;
+}
+h1{
+      color: #df7861;
+      font-style: bold;
+      font-family: cursive;
+      font-size: 50px;
+}
+h3{
+      color: #df7861;
+      font-family: cursive;
+      font-size: 30px;"
+}
+
+p{
+  color: #ecb390;
+  font-family: monospace;
+  font-size: 17px;
+}
